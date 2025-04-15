@@ -1,5 +1,5 @@
 
-# 👋 Hey there, I'm Anshuman Dash!
+# 👋 Hey there, I'm Anshuman!
 
 🚀 **Backend Developer | 4+ Years of Experience**  
 💡 Passionate about building scalable applications and optimizing backend performance.
